@@ -1,6 +1,6 @@
 # The-Spark-Foundation
-# Tasks List that are completed by me
-# Graduate Rotational Internship Program
+ Tasks List that are completed by me
+ Graduate Rotational Internship Program
 
 # Data Science & Business Analytics Tasks
 
